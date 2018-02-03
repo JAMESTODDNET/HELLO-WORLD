@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{EAF909A5-FA59-4C3D-9431-0FCC20D5BCF9}") = "Hello, World", "Hello, World\Hello, World.icproj", "{5A0FB33D-7FE4-402D-BFBA-3F9067059247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A0FB33D-7FE4-402D-BFBA-3F9067059247}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A0FB33D-7FE4-402D-BFBA-3F9067059247}.Debug|Win32.Build.0 = Debug|Win32
+		{5A0FB33D-7FE4-402D-BFBA-3F9067059247}.Release|Win32.ActiveCfg = Release|Win32
+		{5A0FB33D-7FE4-402D-BFBA-3F9067059247}.Release|Win32.Build.0 = Release|Win32
+		{E1F5698F-E713-4B91-842C-5AD45850EB80}.Release|Win32.Build.0 = Release|Win32
+		{E1F5698F-E713-4B91-842C-5AD45850EB80}.Release|Win32.ActiveCfg = Release|Win32
+		{E1F5698F-E713-4B91-842C-5AD45850EB80}.Debug|Win32.Build.0 = Debug|Win32
+		{E1F5698F-E713-4B91-842C-5AD45850EB80}.Debug|Win32.ActiveCfg = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
